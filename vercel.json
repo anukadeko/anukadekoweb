@@ -1,1 +1,1 @@
-{"rewrites":[{"source":"/((?!assets/|art/|interiors/|favicon.svg).*)","destination":"/index.html"}]}
+{"rewrites":[{"source":"/((?!assets/|art/|interiors/|logo-ana-jurado.png|favicon.svg).*)","destination":"/index.html"}]}
