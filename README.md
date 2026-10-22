@@ -1,6 +1,6 @@
 # Ana Jurado — Interiorismo & Arte
 
-Web de Ana Jurado con interiorismo como portada, 39 proyectos de decoración y una galería de 15 pinturas.
+Web de Ana Jurado con interiorismo como portada, 52 fotografías organizadas en siete categorías y una sección de pintura con imágenes del proceso creativo y una obra en caballete.
 
 ## Desarrollo
 
@@ -23,17 +23,15 @@ npm run preview
 ## Páginas
 
 - `/`: inicio, con protagonismo del interiorismo.
-- `/interiorismo`: proyectos y filtros.
+- `/interiorismo`: selección de categorías.
+- `/interiorismo/:category`: galería de cada estancia.
 - `/proyectos/:id`: página de cada proyecto.
-- `/arte`: galería de pintura y vistas ampliadas.
+- `/arte`: pintura, proceso creativo y obra en caballete.
 - `/estudio`: presentación de Ana.
 - `/contacto`: acceso a las páginas de contacto existentes.
 
-Las fotografías proceden de las páginas de Ana Jurado, facilitadas para este proyecto:
+Las fotografías han sido sustituidas por la selección facilitada por Ana en Google Drive, organizada en salones, comedores, jardines, dormitorios, cuartos de baño, detalles de decoración y otras estancias. Las fotografías anteriores ya no se incluyen.
 
-- https://anukadekodesigner.myportfolio.com/
-- https://anajuradopaintings.myportfolio.com/
-
-Las fotografías utilizadas están incluidas en `public/`; las de interiorismo están optimizadas en WebP. Los datos de proyectos están en `src/projects.json`.
+Las imágenes están optimizadas en WebP en `public/photos/`, con copias pequeñas para las galerías. Los datos de las 52 fotografías de interiorismo están en `src/projects.json`. Las tres imágenes de presentación y arte se utilizan en las páginas correspondientes. El logo oficial se conserva.
 
 El contacto utiliza las páginas originales de Adobe Portfolio. La web no tiene un formulario propio ni almacena mensajes. Las fuentes se cargan desde Google Fonts y tienen alternativas locales.

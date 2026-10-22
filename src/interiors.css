@@ -15,3 +15,17 @@
   .unified-header nav{top:143px}
   .unified-footer .brand-logo{width:220px}
 }
+
+/* Galleries grouped by the room names supplied by Ana. */
+.room-navigation{display:flex;flex-wrap:wrap;gap:12px 24px;overflow:visible}
+.room-navigation a{font-size:11px;padding:10px 0;border-bottom:1px solid transparent;white-space:normal}
+.room-navigation a[aria-current="page"]{border-color:currentColor;color:#514d3f}
+.room-navigation a:focus-visible{outline:2px solid #727962;outline-offset:5px}
+.project-catalogue .project-image img{aspect-ratio:auto;height:auto;display:block}
+.art-process-hero h1{font-size:clamp(50px,5.4vw,88px)}
+.art-process-hero .hero-image img{object-position:center}
+.easel-photo img{object-fit:contain;background:#e9e9df;height:auto;max-height:750px}
+@media(max-width:640px){.room-navigation{gap:6px 18px}.room-navigation a{font-size:11px}.art-process-hero h1{font-size:57px}}
+.room-navigation{position:static;left:auto;right:auto;top:auto;padding:0;background:transparent;border:0;z-index:auto}
+.art-process-hero .hero-image img{height:auto;aspect-ratio:auto}
+@media(max-width:640px){.unified-footer .footer-name{grid-column:1;grid-row:1;min-width:0}.unified-footer .back-top{align-self:center}}
