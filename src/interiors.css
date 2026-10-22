@@ -29,3 +29,21 @@
 .room-navigation{position:static;left:auto;right:auto;top:auto;padding:0;background:transparent;border:0;z-index:auto}
 .art-process-hero .hero-image img{height:auto;aspect-ratio:auto}
 @media(max-width:640px){.unified-footer .footer-name{grid-column:1;grid-row:1;min-width:0}.unified-footer .back-top{align-self:center}}
+/* One ordered, mixed gallery with full-image viewing. */
+.photo-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;scroll-margin-top:30px}
+.photo-tile{position:relative;display:block;padding:0;border:0;background:#e9e9df;overflow:hidden;aspect-ratio:4/5;cursor:zoom-in}
+.photo-tile img{width:100%;height:100%;object-fit:cover;transition:transform .35s}
+.photo-tile:hover img{transform:scale(1.025)}
+.photo-zoom{position:absolute;right:12px;bottom:12px;display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#f4f1eae6;font-size:22px;font-family:Arial,sans-serif}
+.gallery-pagination{position:static;display:flex;justify-content:center;flex-wrap:wrap;gap:10px;padding:0;margin:38px 0 0;background:transparent;border:0;z-index:auto}
+.gallery-pagination button{border:1px solid var(--line);background:transparent;min-width:42px;min-height:42px}
+.gallery-pagination button[aria-current="page"]{color:var(--paper);background:var(--ink);border-color:var(--ink)}
+.gallery-pagination button:disabled{opacity:.3;cursor:default}
+.photo-dialog{width:min(1200px,96vw);max-width:96vw;max-height:96dvh;padding:16px 22px;border:0;background:var(--paper)}
+.photo-dialog::backdrop{background:#171b16e6}
+.photo-dialog-toolbar,.photo-dialog-controls{display:flex;justify-content:space-between;align-items:center;gap:20px;font-size:12px}
+.photo-dialog-toolbar button,.photo-dialog-controls button{padding:12px;border:0;background:transparent}
+.photo-dialog-image{display:flex;justify-content:center;height:calc(90dvh - 115px);margin:8px 0}
+.photo-dialog-image img{width:100%;height:100%;object-fit:contain}
+@media(max-width:640px){.photo-gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.photo-dialog{padding:10px}.photo-dialog-image{height:calc(88dvh - 110px)}.gallery-pagination{gap:6px}.gallery-pagination button{min-width:38px}}
+@media(prefers-reduced-motion:reduce){.photo-tile img{transition:none}}

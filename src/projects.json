@@ -1,5 +1,29 @@
 [
   {
+    "id": "salones-01",
+    "name": "Salón contemporáneo con acentos verde azulado",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-01.webp"
+    ],
+    "thumbnail": "/photos/salones-01-small.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "comedores-01",
+    "name": "Comedor moderno con vistas al jardín",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedores-01.webp"
+    ],
+    "thumbnail": "/photos/comedores-01-small.webp",
+    "width": 1003,
+    "height": 886
+  },
+  {
     "id": "otras-estancias-01",
     "name": "Salón minimalista con chimenea y estanterías",
     "category": "otras-estancias",
@@ -10,6 +34,78 @@
     "thumbnail": "/photos/otras-estancias-01-small.webp",
     "width": 1461,
     "height": 1076
+  },
+  {
+    "id": "dormitorios-01",
+    "name": "Dormitorio moderno con acentos magenta",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-01.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-01-small.webp",
+    "width": 1333,
+    "height": 1180
+  },
+  {
+    "id": "jardines-01",
+    "name": "Patio ajardinado con flores lilas",
+    "category": "jardines",
+    "type": "Jardines",
+    "photos": [
+      "/photos/jardines-01.webp"
+    ],
+    "thumbnail": "/photos/jardines-01-small.webp",
+    "width": 1219,
+    "height": 1290
+  },
+  {
+    "id": "detalles-deco-01",
+    "name": "Mesa primaveral con flores amarillas y porcelana azul",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalles-deco-01.webp"
+    ],
+    "thumbnail": "/photos/detalles-deco-01-small.webp",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "id": "banos-01",
+    "name": "Tocador clásico con espejo dorado y luz cálida",
+    "category": "banos",
+    "type": "Cuartos de baño",
+    "photos": [
+      "/photos/banos-01.webp"
+    ],
+    "thumbnail": "/photos/banos-01-small.webp",
+    "width": 1117,
+    "height": 1409
+  },
+  {
+    "id": "salones-02",
+    "name": "Salón contemporáneo con jardín luminoso",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-02.webp"
+    ],
+    "thumbnail": "/photos/salones-02-small.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "comedores-02",
+    "name": "Comedor moderno con mesa decorada y cocina al fondo",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedores-02.webp"
+    ],
+    "thumbnail": "/photos/comedores-02-small.webp",
+    "width": 1211,
+    "height": 1299
   },
   {
     "id": "otras-estancias-02",
@@ -24,6 +120,78 @@
     "height": 1536
   },
   {
+    "id": "dormitorios-02",
+    "name": "Dormitorio sereno con detalles azul marino",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-02.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-02-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "jardines-02",
+    "name": "Comedor mediterráneo luminoso con patio verde",
+    "category": "jardines",
+    "type": "Jardines",
+    "photos": [
+      "/photos/jardines-02.webp"
+    ],
+    "thumbnail": "/photos/jardines-02-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "detalles-deco-02",
+    "name": "Salón moderno con fuego y esculturas metálicas",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalles-deco-02.webp"
+    ],
+    "thumbnail": "/photos/detalles-deco-02-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "banos-02",
+    "name": "Baño moderno con detalles dorados y mármol",
+    "category": "banos",
+    "type": "Cuartos de baño",
+    "photos": [
+      "/photos/banos-02.webp"
+    ],
+    "thumbnail": "/photos/banos-02-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "salones-03",
+    "name": "Salón moderno con mesas de cristal y arte pareado",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-03.webp"
+    ],
+    "thumbnail": "/photos/salones-03-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "comedores-03",
+    "name": "Comedor nórdico con luces escultóricas",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedores-03.webp"
+    ],
+    "thumbnail": "/photos/comedores-03-small.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
     "id": "otras-estancias-03",
     "name": "Estudio elegante con escritorio clásico",
     "category": "otras-estancias",
@@ -34,6 +202,66 @@
     "thumbnail": "/photos/otras-estancias-03-small.webp",
     "width": 1086,
     "height": 1448
+  },
+  {
+    "id": "dormitorios-03",
+    "name": "Dormitorio costero con camas gemelas y arte turquesa",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-03.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-03-small.webp",
+    "width": 1323,
+    "height": 1189
+  },
+  {
+    "id": "jardines-03",
+    "name": "Pavimento de azulejos verdes y terracota",
+    "category": "jardines",
+    "type": "Jardines",
+    "photos": [
+      "/photos/jardines-03.webp"
+    ],
+    "thumbnail": "/photos/jardines-03-small.webp",
+    "width": 1296,
+    "height": 1214
+  },
+  {
+    "id": "detalles-deco-03",
+    "name": "Bodegón festivo de otoño junto a la mesa",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalles-deco-03.webp"
+    ],
+    "thumbnail": "/photos/detalles-deco-03-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "salones-04",
+    "name": "Salón acogedor con vistas al jardín",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-04.webp"
+    ],
+    "thumbnail": "/photos/salones-04-small.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": "comedores-04",
+    "name": "Comedor costero con detalles en azul",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedores-04.webp"
+    ],
+    "thumbnail": "/photos/comedores-04-small.webp",
+    "width": 1448,
+    "height": 1086
   },
   {
     "id": "otras-estancias-04",
@@ -48,6 +276,66 @@
     "height": 1216
   },
   {
+    "id": "dormitorios-04",
+    "name": "Dormitorio elegante con cabecero botánico",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-04.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-04-small.webp",
+    "width": 1298,
+    "height": 1212
+  },
+  {
+    "id": "jardines-04",
+    "name": "Rincón mediterráneo de descanso soleado",
+    "category": "jardines",
+    "type": "Jardines",
+    "photos": [
+      "/photos/jardines-04.webp"
+    ],
+    "thumbnail": "/photos/jardines-04-small.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "detalles-deco-04",
+    "name": "Desayuno elegante al sol",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalles-deco-04.webp"
+    ],
+    "thumbnail": "/photos/detalles-deco-04-small.webp",
+    "width": 1261,
+    "height": 1247
+  },
+  {
+    "id": "salones-05",
+    "name": "Salón contemporáneo con detalles azul marino",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-05.webp"
+    ],
+    "thumbnail": "/photos/salones-05-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "comedores-06",
+    "name": "Comedor campestre con flores secas",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedores-06.webp"
+    ],
+    "thumbnail": "/photos/comedores-06-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
     "id": "otras-estancias-05",
     "name": "Rincón vintage bajo la escalera",
     "category": "otras-estancias",
@@ -58,6 +346,54 @@
     "thumbnail": "/photos/otras-estancias-05-small.webp",
     "width": 1086,
     "height": 1448
+  },
+  {
+    "id": "dormitorios-05",
+    "name": "Dormitorio mediterráneo con cabecero trenzado",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-05.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-05-small.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "id": "jardines-05",
+    "name": "Rincón de jardín acogedor al atardecer",
+    "category": "jardines",
+    "type": "Jardines",
+    "photos": [
+      "/photos/jardines-05.webp"
+    ],
+    "thumbnail": "/photos/jardines-05-small.webp",
+    "width": 1307,
+    "height": 1203
+  },
+  {
+    "id": "detalles-deco-05",
+    "name": "Pasillo sereno con arte circular y aplique dorado",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalles-deco-05.webp"
+    ],
+    "thumbnail": "/photos/detalles-deco-05-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "salones-06",
+    "name": "Salón moderno y acogedor con chimenea",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-06.webp"
+    ],
+    "thumbnail": "/photos/salones-06-small.webp",
+    "width": 1448,
+    "height": 1086
   },
   {
     "id": "otras-estancias-06",
@@ -72,6 +408,54 @@
     "height": 1324
   },
   {
+    "id": "dormitorios-06",
+    "name": "Dormitorio sereno con acentos verdes y dorados",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-06.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-06-small.webp",
+    "width": 1402,
+    "height": 1122
+  },
+  {
+    "id": "jardines-06",
+    "name": "Patio mediterráneo bañado por el sol",
+    "category": "jardines",
+    "type": "Jardines",
+    "photos": [
+      "/photos/jardines-06.webp"
+    ],
+    "thumbnail": "/photos/jardines-06-small.webp",
+    "width": 1439,
+    "height": 1093
+  },
+  {
+    "id": "detalles-deco-06",
+    "name": "Bodegón clásico con espejo y libros",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalles-deco-06.webp"
+    ],
+    "thumbnail": "/photos/detalles-deco-06-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "salones-07",
+    "name": "Salón moderno con arte y texturas",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-07.webp"
+    ],
+    "thumbnail": "/photos/salones-07-small.webp",
+    "width": 1307,
+    "height": 1203
+  },
+  {
     "id": "otras-estancias-07",
     "name": "Entrada clásica con paisajes costeros y busto antiguo",
     "category": "otras-estancias",
@@ -82,6 +466,42 @@
     "thumbnail": "/photos/otras-estancias-07-small.webp",
     "width": 1122,
     "height": 1402
+  },
+  {
+    "id": "dormitorios-07",
+    "name": "Dormitorio costero con dos camas y sombreros",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-07.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-07-small.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "jardines-07",
+    "name": "Patio mediterráneo con jardín y piscina",
+    "category": "jardines",
+    "type": "Jardines",
+    "photos": [
+      "/photos/jardines-07.webp"
+    ],
+    "thumbnail": "/photos/jardines-07-small.webp",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "id": "salones-08",
+    "name": "Salón elegante con mesas doradas y jardín",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-08.webp"
+    ],
+    "thumbnail": "/photos/salones-08-small.webp",
+    "width": 1254,
+    "height": 1254
   },
   {
     "id": "otras-estancias-08",
@@ -96,6 +516,18 @@
     "height": 1402
   },
   {
+    "id": "salones-09",
+    "name": "Salón acogedor con arte geométrico",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-09.webp"
+    ],
+    "thumbnail": "/photos/salones-09-small.webp",
+    "width": 1254,
+    "height": 1254
+  },
+  {
     "id": "otras-estancias-09",
     "name": "Recibidor otoñal con arte abstracto",
     "category": "otras-estancias",
@@ -108,6 +540,18 @@
     "height": 1402
   },
   {
+    "id": "salones-10",
+    "name": "Salón costero con sofás y arte marino",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-10.webp"
+    ],
+    "thumbnail": "/photos/salones-10-small.webp",
+    "width": 1448,
+    "height": 1086
+  },
+  {
     "id": "otras-estancias-10",
     "name": "Entrada elegante con arte marino y consola burdeos",
     "category": "otras-estancias",
@@ -118,6 +562,18 @@
     "thumbnail": "/photos/otras-estancias-10-small.webp",
     "width": 1122,
     "height": 1402
+  },
+  {
+    "id": "salones-11",
+    "name": "Salón moderno y simétrico en tonos cálidos",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-11.webp"
+    ],
+    "thumbnail": "/photos/salones-11-small.webp",
+    "width": 1448,
+    "height": 1086
   },
   {
     "id": "otras-estancias-11",
@@ -142,485 +598,5 @@
     "thumbnail": "/photos/otras-estancias-12-small.webp",
     "width": 1152,
     "height": 1366
-  },
-  {
-    "id": "detalles-deco-01",
-    "name": "Mesa primaveral con flores amarillas y porcelana azul",
-    "category": "detalles-deco",
-    "type": "Detalles deco",
-    "photos": [
-      "/photos/detalles-deco-01.webp"
-    ],
-    "thumbnail": "/photos/detalles-deco-01-small.webp",
-    "width": 940,
-    "height": 1672
-  },
-  {
-    "id": "detalles-deco-02",
-    "name": "Salón moderno con fuego y esculturas metálicas",
-    "category": "detalles-deco",
-    "type": "Detalles deco",
-    "photos": [
-      "/photos/detalles-deco-02.webp"
-    ],
-    "thumbnail": "/photos/detalles-deco-02-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "detalles-deco-03",
-    "name": "Bodegón festivo de otoño junto a la mesa",
-    "category": "detalles-deco",
-    "type": "Detalles deco",
-    "photos": [
-      "/photos/detalles-deco-03.webp"
-    ],
-    "thumbnail": "/photos/detalles-deco-03-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "detalles-deco-04",
-    "name": "Desayuno elegante al sol",
-    "category": "detalles-deco",
-    "type": "Detalles deco",
-    "photos": [
-      "/photos/detalles-deco-04.webp"
-    ],
-    "thumbnail": "/photos/detalles-deco-04-small.webp",
-    "width": 1261,
-    "height": 1247
-  },
-  {
-    "id": "detalles-deco-05",
-    "name": "Pasillo sereno con arte circular y aplique dorado",
-    "category": "detalles-deco",
-    "type": "Detalles deco",
-    "photos": [
-      "/photos/detalles-deco-05.webp"
-    ],
-    "thumbnail": "/photos/detalles-deco-05-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "detalles-deco-06",
-    "name": "Bodegón clásico con espejo y libros",
-    "category": "detalles-deco",
-    "type": "Detalles deco",
-    "photos": [
-      "/photos/detalles-deco-06.webp"
-    ],
-    "thumbnail": "/photos/detalles-deco-06-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "comedores-01",
-    "name": "Comedor moderno con vistas al jardín",
-    "category": "comedores",
-    "type": "Comedores",
-    "photos": [
-      "/photos/comedores-01.webp"
-    ],
-    "thumbnail": "/photos/comedores-01-small.webp",
-    "width": 1003,
-    "height": 886
-  },
-  {
-    "id": "comedores-02",
-    "name": "Comedor moderno con mesa decorada y cocina al fondo",
-    "category": "comedores",
-    "type": "Comedores",
-    "photos": [
-      "/photos/comedores-02.webp"
-    ],
-    "thumbnail": "/photos/comedores-02-small.webp",
-    "width": 1211,
-    "height": 1299
-  },
-  {
-    "id": "comedores-03",
-    "name": "Comedor nórdico con luces escultóricas",
-    "category": "comedores",
-    "type": "Comedores",
-    "photos": [
-      "/photos/comedores-03.webp"
-    ],
-    "thumbnail": "/photos/comedores-03-small.webp",
-    "width": 1448,
-    "height": 1086
-  },
-  {
-    "id": "comedores-04",
-    "name": "Comedor costero con detalles en azul",
-    "category": "comedores",
-    "type": "Comedores",
-    "photos": [
-      "/photos/comedores-04.webp"
-    ],
-    "thumbnail": "/photos/comedores-04-small.webp",
-    "width": 1448,
-    "height": 1086
-  },
-  {
-    "id": "comedores-05",
-    "name": "Comedor minimalista bañado de luz natural",
-    "category": "comedores",
-    "type": "Comedores",
-    "photos": [
-      "/photos/comedores-05.webp"
-    ],
-    "thumbnail": "/photos/comedores-05-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "comedores-06",
-    "name": "Comedor campestre con flores secas",
-    "category": "comedores",
-    "type": "Comedores",
-    "photos": [
-      "/photos/comedores-06.webp"
-    ],
-    "thumbnail": "/photos/comedores-06-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "jardines-01",
-    "name": "Patio ajardinado con flores lilas",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-01.webp"
-    ],
-    "thumbnail": "/photos/jardines-01-small.webp",
-    "width": 1219,
-    "height": 1290
-  },
-  {
-    "id": "jardines-02",
-    "name": "Comedor mediterráneo luminoso con patio verde",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-02.webp"
-    ],
-    "thumbnail": "/photos/jardines-02-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "jardines-03",
-    "name": "Pavimento de azulejos verdes y terracota",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-03.webp"
-    ],
-    "thumbnail": "/photos/jardines-03-small.webp",
-    "width": 1296,
-    "height": 1214
-  },
-  {
-    "id": "jardines-04",
-    "name": "Rincón mediterráneo de descanso soleado",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-04.webp"
-    ],
-    "thumbnail": "/photos/jardines-04-small.webp",
-    "width": 1254,
-    "height": 1254
-  },
-  {
-    "id": "jardines-05",
-    "name": "Rincón de jardín acogedor al atardecer",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-05.webp"
-    ],
-    "thumbnail": "/photos/jardines-05-small.webp",
-    "width": 1307,
-    "height": 1203
-  },
-  {
-    "id": "jardines-06",
-    "name": "Patio mediterráneo bañado por el sol",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-06.webp"
-    ],
-    "thumbnail": "/photos/jardines-06-small.webp",
-    "width": 1439,
-    "height": 1093
-  },
-  {
-    "id": "jardines-07",
-    "name": "Patio mediterráneo con jardín y piscina",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-07.webp"
-    ],
-    "thumbnail": "/photos/jardines-07-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "jardines-08",
-    "name": "Un rincón al aire libre",
-    "category": "jardines",
-    "type": "Jardines",
-    "photos": [
-      "/photos/jardines-08.webp"
-    ],
-    "thumbnail": "/photos/jardines-08-small.webp",
-    "width": 4284,
-    "height": 5712
-  },
-  {
-    "id": "dormitorios-01",
-    "name": "Dormitorio moderno con acentos magenta",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-01.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-01-small.webp",
-    "width": 1333,
-    "height": 1180
-  },
-  {
-    "id": "dormitorios-02",
-    "name": "Dormitorio sereno con detalles azul marino",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-02.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-02-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "dormitorios-03",
-    "name": "Dormitorio costero con camas gemelas y arte turquesa",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-03.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-03-small.webp",
-    "width": 1323,
-    "height": 1189
-  },
-  {
-    "id": "dormitorios-04",
-    "name": "Dormitorio elegante con cabecero botánico",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-04.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-04-small.webp",
-    "width": 1298,
-    "height": 1212
-  },
-  {
-    "id": "dormitorios-05",
-    "name": "Dormitorio mediterráneo con cabecero trenzado",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-05.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-05-small.webp",
-    "width": 1448,
-    "height": 1086
-  },
-  {
-    "id": "dormitorios-06",
-    "name": "Dormitorio sereno con acentos verdes y dorados",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-06.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-06-small.webp",
-    "width": 1402,
-    "height": 1122
-  },
-  {
-    "id": "dormitorios-07",
-    "name": "Dormitorio costero con dos camas y sombreros",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-07.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-07-small.webp",
-    "width": 1254,
-    "height": 1254
-  },
-  {
-    "id": "salones-01",
-    "name": "Salón contemporáneo con acentos verde azulado",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-01.webp"
-    ],
-    "thumbnail": "/photos/salones-01-small.webp",
-    "width": 1254,
-    "height": 1254
-  },
-  {
-    "id": "salones-02",
-    "name": "Salón contemporáneo con jardín luminoso",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-02.webp"
-    ],
-    "thumbnail": "/photos/salones-02-small.webp",
-    "width": 1254,
-    "height": 1254
-  },
-  {
-    "id": "salones-03",
-    "name": "Salón moderno con mesas de cristal y arte pareado",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-03.webp"
-    ],
-    "thumbnail": "/photos/salones-03-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "salones-04",
-    "name": "Salón acogedor con vistas al jardín",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-04.webp"
-    ],
-    "thumbnail": "/photos/salones-04-small.webp",
-    "width": 1448,
-    "height": 1086
-  },
-  {
-    "id": "salones-05",
-    "name": "Salón contemporáneo con detalles azul marino",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-05.webp"
-    ],
-    "thumbnail": "/photos/salones-05-small.webp",
-    "width": 1086,
-    "height": 1448
-  },
-  {
-    "id": "salones-06",
-    "name": "Salón moderno y acogedor con chimenea",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-06.webp"
-    ],
-    "thumbnail": "/photos/salones-06-small.webp",
-    "width": 1448,
-    "height": 1086
-  },
-  {
-    "id": "salones-07",
-    "name": "Salón moderno con arte y texturas",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-07.webp"
-    ],
-    "thumbnail": "/photos/salones-07-small.webp",
-    "width": 1307,
-    "height": 1203
-  },
-  {
-    "id": "salones-08",
-    "name": "Salón elegante con mesas doradas y jardín",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-08.webp"
-    ],
-    "thumbnail": "/photos/salones-08-small.webp",
-    "width": 1254,
-    "height": 1254
-  },
-  {
-    "id": "salones-09",
-    "name": "Salón acogedor con arte geométrico",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-09.webp"
-    ],
-    "thumbnail": "/photos/salones-09-small.webp",
-    "width": 1254,
-    "height": 1254
-  },
-  {
-    "id": "salones-10",
-    "name": "Salón costero con sofás y arte marino",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-10.webp"
-    ],
-    "thumbnail": "/photos/salones-10-small.webp",
-    "width": 1448,
-    "height": 1086
-  },
-  {
-    "id": "salones-11",
-    "name": "Salón moderno y simétrico en tonos cálidos",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-11.webp"
-    ],
-    "thumbnail": "/photos/salones-11-small.webp",
-    "width": 1448,
-    "height": 1086
-  },
-  {
-    "id": "banos-01",
-    "name": "Tocador clásico con espejo dorado y luz cálida",
-    "category": "banos",
-    "type": "Cuartos de baño",
-    "photos": [
-      "/photos/banos-01.webp"
-    ],
-    "thumbnail": "/photos/banos-01-small.webp",
-    "width": 1117,
-    "height": 1409
-  },
-  {
-    "id": "banos-02",
-    "name": "Baño moderno con detalles dorados y mármol",
-    "category": "banos",
-    "type": "Cuartos de baño",
-    "photos": [
-      "/photos/banos-02.webp"
-    ],
-    "thumbnail": "/photos/banos-02-small.webp",
-    "width": 1086,
-    "height": 1448
   }
 ]
