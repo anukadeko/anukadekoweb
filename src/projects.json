@@ -9,8 +9,7 @@
     ],
     "thumbnail": "/photos/salones-01-small.webp",
     "width": 1254,
-    "height": 1254,
-    "artByAna": true
+    "height": 1254
   },
   {
     "id": "comedores-01",
@@ -22,8 +21,7 @@
     ],
     "thumbnail": "/photos/comedores-01-small.webp",
     "width": 1003,
-    "height": 886,
-    "artByAna": true
+    "height": 886
   },
   {
     "id": "otras-estancias-01",
@@ -63,6 +61,19 @@
     "height": 1290
   },
   {
+    "id": "comedores-04",
+    "name": "Comedor costero con detalles en azul",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedores-04.webp"
+    ],
+    "thumbnail": "/photos/comedores-04-small.webp",
+    "width": 1448,
+    "height": 1086,
+    "artByAna": true
+  },
+  {
     "id": "detalles-deco-01",
     "name": "Mesa primaveral con flores amarillas y porcelana azul",
     "category": "detalles-deco",
@@ -85,6 +96,19 @@
     "thumbnail": "/photos/banos-01-small.webp",
     "width": 1117,
     "height": 1409
+  },
+  {
+    "id": "otras-estancias-08",
+    "name": "Recibidor con arte abstracto y decantadores",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-08.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-08-small.webp",
+    "width": 1122,
+    "height": 1402,
+    "artByAna": true
   },
   {
     "id": "salones-02",
@@ -111,6 +135,19 @@
     "height": 1299
   },
   {
+    "id": "salones-11",
+    "name": "Salón moderno y simétrico en tonos cálidos",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-11.webp"
+    ],
+    "thumbnail": "/photos/salones-11-small.webp",
+    "width": 1448,
+    "height": 1086,
+    "artByAna": true
+  },
+  {
     "id": "otras-estancias-02",
     "name": "Consola rústica con libros y pampas",
     "category": "otras-estancias",
@@ -133,6 +170,19 @@
     "thumbnail": "/photos/dormitorios-02-small.webp",
     "width": 1086,
     "height": 1448
+  },
+  {
+    "id": "salones-03",
+    "name": "Salón moderno con mesas de cristal y arte pareado",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-03.webp"
+    ],
+    "thumbnail": "/photos/salones-03-small.webp",
+    "width": 1086,
+    "height": 1448,
+    "artByAna": true
   },
   {
     "id": "jardines-02",
@@ -159,6 +209,19 @@
     "height": 1448
   },
   {
+    "id": "comedores-06",
+    "name": "Comedor campestre con flores secas",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedores-06.webp"
+    ],
+    "thumbnail": "/photos/comedores-06-small.webp",
+    "width": 1086,
+    "height": 1448,
+    "artByAna": true
+  },
+  {
     "id": "banos-02",
     "name": "Baño moderno con detalles dorados y mármol",
     "category": "banos",
@@ -169,19 +232,6 @@
     "thumbnail": "/photos/banos-02-small.webp",
     "width": 1086,
     "height": 1448
-  },
-  {
-    "id": "salones-03",
-    "name": "Salón moderno con mesas de cristal y arte pareado",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-03.webp"
-    ],
-    "thumbnail": "/photos/salones-03-small.webp",
-    "width": 1086,
-    "height": 1448,
-    "artByAna": true
   },
   {
     "id": "comedores-03",
@@ -196,29 +246,16 @@
     "height": 1086
   },
   {
-    "id": "otras-estancias-03",
-    "name": "Estudio elegante con escritorio clásico",
-    "category": "otras-estancias",
-    "type": "Otras estancias",
+    "id": "salones-09",
+    "name": "Salón acogedor con arte geométrico",
+    "category": "salones",
+    "type": "Salones",
     "photos": [
-      "/photos/otras-estancias-03.webp"
+      "/photos/salones-09.webp"
     ],
-    "thumbnail": "/photos/otras-estancias-03-small.webp",
-    "width": 1086,
-    "height": 1448,
-    "artByAna": true
-  },
-  {
-    "id": "dormitorios-03",
-    "name": "Dormitorio costero con camas gemelas y arte turquesa",
-    "category": "dormitorios",
-    "type": "Dormitorios",
-    "photos": [
-      "/photos/dormitorios-03.webp"
-    ],
-    "thumbnail": "/photos/dormitorios-03-small.webp",
-    "width": 1323,
-    "height": 1189,
+    "thumbnail": "/photos/salones-09-small.webp",
+    "width": 1254,
+    "height": 1254,
     "artByAna": true
   },
   {
@@ -246,6 +283,19 @@
     "height": 1448
   },
   {
+    "id": "otras-estancias-11",
+    "name": "Recibidor elegante con arte abstracto",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-11.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-11-small.webp",
+    "width": 1122,
+    "height": 1402,
+    "artByAna": true
+  },
+  {
     "id": "salones-04",
     "name": "Salón acogedor con vistas al jardín",
     "category": "salones",
@@ -258,19 +308,6 @@
     "height": 1086
   },
   {
-    "id": "comedores-04",
-    "name": "Comedor costero con detalles en azul",
-    "category": "comedores",
-    "type": "Comedores",
-    "photos": [
-      "/photos/comedores-04.webp"
-    ],
-    "thumbnail": "/photos/comedores-04-small.webp",
-    "width": 1448,
-    "height": 1086,
-    "artByAna": true
-  },
-  {
     "id": "otras-estancias-04",
     "name": "Rincón bar costero en tonos turquesa",
     "category": "otras-estancias",
@@ -281,6 +318,19 @@
     "thumbnail": "/photos/otras-estancias-04-small.webp",
     "width": 1294,
     "height": 1216
+  },
+  {
+    "id": "otras-estancias-03",
+    "name": "Estudio elegante con escritorio clásico",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-03.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-03-small.webp",
+    "width": 1086,
+    "height": 1448,
+    "artByAna": true
   },
   {
     "id": "dormitorios-04",
@@ -307,6 +357,19 @@
     "height": 1254
   },
   {
+    "id": "salones-07",
+    "name": "Salón moderno con arte y texturas",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-07.webp"
+    ],
+    "thumbnail": "/photos/salones-07-small.webp",
+    "width": 1307,
+    "height": 1203,
+    "artByAna": true
+  },
+  {
     "id": "detalles-deco-04",
     "name": "Desayuno elegante al sol",
     "category": "detalles-deco",
@@ -331,17 +394,29 @@
     "height": 1448
   },
   {
-    "id": "comedores-06",
-    "name": "Comedor campestre con flores secas",
-    "category": "comedores",
-    "type": "Comedores",
+    "id": "otras-estancias-09",
+    "name": "Recibidor otoñal con arte abstracto",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
     "photos": [
-      "/photos/comedores-06.webp"
+      "/photos/otras-estancias-09.webp"
     ],
-    "thumbnail": "/photos/comedores-06-small.webp",
-    "width": 1086,
-    "height": 1448,
+    "thumbnail": "/photos/otras-estancias-09-small.webp",
+    "width": 1122,
+    "height": 1402,
     "artByAna": true
+  },
+  {
+    "id": "dormitorios-05",
+    "name": "Dormitorio mediterráneo con cabecero trenzado",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-05.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-05-small.webp",
+    "width": 1448,
+    "height": 1086
   },
   {
     "id": "otras-estancias-05",
@@ -356,16 +431,17 @@
     "height": 1448
   },
   {
-    "id": "dormitorios-05",
-    "name": "Dormitorio mediterráneo con cabecero trenzado",
-    "category": "dormitorios",
-    "type": "Dormitorios",
+    "id": "otras-estancias-12",
+    "name": "Vignette elegante con arte y libros",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
     "photos": [
-      "/photos/dormitorios-05.webp"
+      "/photos/otras-estancias-12.webp"
     ],
-    "thumbnail": "/photos/dormitorios-05-small.webp",
-    "width": 1448,
-    "height": 1086
+    "thumbnail": "/photos/otras-estancias-12-small.webp",
+    "width": 1152,
+    "height": 1366,
+    "artByAna": true
   },
   {
     "id": "jardines-05",
@@ -404,16 +480,17 @@
     "height": 1324
   },
   {
-    "id": "dormitorios-06",
-    "name": "Dormitorio sereno con acentos verdes y dorados",
+    "id": "dormitorios-03",
+    "name": "Dormitorio costero con camas gemelas y arte turquesa",
     "category": "dormitorios",
     "type": "Dormitorios",
     "photos": [
-      "/photos/dormitorios-06.webp"
+      "/photos/dormitorios-03.webp"
     ],
-    "thumbnail": "/photos/dormitorios-06-small.webp",
-    "width": 1402,
-    "height": 1122
+    "thumbnail": "/photos/dormitorios-03-small.webp",
+    "width": 1323,
+    "height": 1189,
+    "artByAna": true
   },
   {
     "id": "jardines-06",
@@ -428,6 +505,18 @@
     "height": 1093
   },
   {
+    "id": "dormitorios-06",
+    "name": "Dormitorio sereno con acentos verdes y dorados",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-06.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-06-small.webp",
+    "width": 1402,
+    "height": 1122
+  },
+  {
     "id": "detalles-deco-06",
     "name": "Bodegón clásico con espejo y libros",
     "category": "detalles-deco",
@@ -438,19 +527,6 @@
     "thumbnail": "/photos/detalles-deco-06-small.webp",
     "width": 1086,
     "height": 1448
-  },
-  {
-    "id": "salones-07",
-    "name": "Salón moderno con arte y texturas",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-07.webp"
-    ],
-    "thumbnail": "/photos/salones-07-small.webp",
-    "width": 1307,
-    "height": 1203,
-    "artByAna": true
   },
   {
     "id": "otras-estancias-07",
@@ -502,45 +578,6 @@
     "height": 1254
   },
   {
-    "id": "otras-estancias-08",
-    "name": "Recibidor con arte abstracto y decantadores",
-    "category": "otras-estancias",
-    "type": "Otras estancias",
-    "photos": [
-      "/photos/otras-estancias-08.webp"
-    ],
-    "thumbnail": "/photos/otras-estancias-08-small.webp",
-    "width": 1122,
-    "height": 1402,
-    "artByAna": true
-  },
-  {
-    "id": "salones-09",
-    "name": "Salón acogedor con arte geométrico",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-09.webp"
-    ],
-    "thumbnail": "/photos/salones-09-small.webp",
-    "width": 1254,
-    "height": 1254,
-    "artByAna": true
-  },
-  {
-    "id": "otras-estancias-09",
-    "name": "Recibidor otoñal con arte abstracto",
-    "category": "otras-estancias",
-    "type": "Otras estancias",
-    "photos": [
-      "/photos/otras-estancias-09.webp"
-    ],
-    "thumbnail": "/photos/otras-estancias-09-small.webp",
-    "width": 1122,
-    "height": 1402,
-    "artByAna": true
-  },
-  {
     "id": "otras-estancias-10",
     "name": "Entrada elegante con arte marino y consola burdeos",
     "category": "otras-estancias",
@@ -551,45 +588,6 @@
     "thumbnail": "/photos/otras-estancias-10-small.webp",
     "width": 1122,
     "height": 1402,
-    "artByAna": true
-  },
-  {
-    "id": "salones-11",
-    "name": "Salón moderno y simétrico en tonos cálidos",
-    "category": "salones",
-    "type": "Salones",
-    "photos": [
-      "/photos/salones-11.webp"
-    ],
-    "thumbnail": "/photos/salones-11-small.webp",
-    "width": 1448,
-    "height": 1086,
-    "artByAna": true
-  },
-  {
-    "id": "otras-estancias-11",
-    "name": "Recibidor elegante con arte abstracto",
-    "category": "otras-estancias",
-    "type": "Otras estancias",
-    "photos": [
-      "/photos/otras-estancias-11.webp"
-    ],
-    "thumbnail": "/photos/otras-estancias-11-small.webp",
-    "width": 1122,
-    "height": 1402,
-    "artByAna": true
-  },
-  {
-    "id": "otras-estancias-12",
-    "name": "Vignette elegante con arte y libros",
-    "category": "otras-estancias",
-    "type": "Otras estancias",
-    "photos": [
-      "/photos/otras-estancias-12.webp"
-    ],
-    "thumbnail": "/photos/otras-estancias-12-small.webp",
-    "width": 1152,
-    "height": 1366,
     "artByAna": true
   }
 ]
