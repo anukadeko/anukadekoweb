@@ -59,4 +59,4 @@
 .photo-tile-wrap .photo-tile{width:100%}
 .cover-art-credit-text{font-family:var(--serif);font-size:28px;color:white}
 @media(max-width:640px){.cover-art-credit-text{font-size:23px}}
-@media(max-width:640px){.panorama-caption>.cover-art-credit-text{font-size:23px}}
+@media(max-width:640px){.panorama-caption>span.cover-art-credit-text{font-size:23px}}
