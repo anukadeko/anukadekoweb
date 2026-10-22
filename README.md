@@ -37,3 +37,5 @@ Las imágenes están optimizadas en WebP en `public/photos/`, con copias pequeñ
 El contacto utiliza las páginas originales de Adobe Portfolio. La web no tiene un formulario propio ni almacena mensajes. Las fuentes se cargan desde Google Fonts y tienen alternativas locales.
 
 Las fotografías con `artByAna` muestran el crédito de autoría confirmado por Ana, con un enlace a Arte al ampliarlas. La portada identifica sus tres cuadros. El detalle del cuadro circular se muestra únicamente en Arte (`src/art-details.json`); la foto de portada no se repite en la galería.
+
+`/arte/obras` presenta únicamente las obras identificadas, con encuadres centrados en la pintura mediante ventanas SVG que conservan la imagen original. La portada y las etiquetas enlazan a esta galería, y su ampliación recorre solo obras. Dos fotos inicialmente señaladas no tienen un cuadro visible; sus detalles quedan pendientes de identificación por Ana.

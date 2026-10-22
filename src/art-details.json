@@ -1,5 +1,303 @@
 [
   {
+    "id": "portada-obra-1",
+    "name": "Obra de Ana Jurado",
+    "photos": [
+      "/photos/salones-10.webp"
+    ],
+    "thumbnail": "/photos/salones-10.webp",
+    "width": 1448,
+    "height": 1086,
+    "artByAna": true,
+    "focus": [
+      0.06,
+      0.1,
+      0.12,
+      0.23
+    ]
+  },
+  {
+    "id": "portada-obra-2",
+    "name": "Obra de Ana Jurado",
+    "photos": [
+      "/photos/salones-10.webp"
+    ],
+    "thumbnail": "/photos/salones-10.webp",
+    "width": 1448,
+    "height": 1086,
+    "artByAna": true,
+    "focus": [
+      0.655,
+      0.055,
+      0.165,
+      0.28
+    ]
+  },
+  {
+    "id": "portada-obra-3",
+    "name": "Obra de Ana Jurado",
+    "photos": [
+      "/photos/salones-10.webp"
+    ],
+    "thumbnail": "/photos/salones-10.webp",
+    "width": 1448,
+    "height": 1086,
+    "artByAna": true,
+    "focus": [
+      0.81,
+      0.06,
+      0.18,
+      0.28
+    ]
+  },
+  {
+    "id": "otras-estancias-01",
+    "name": "Salón minimalista con chimenea y estanterías",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-01.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-01-small.webp",
+    "width": 1461,
+    "height": 1076,
+    "artByAna": true,
+    "focus": [
+      0.4,
+      0.12,
+      0.23,
+      0.4
+    ]
+  },
+  {
+    "id": "salones-03",
+    "name": "Salón moderno con mesas de cristal y arte pareado",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-03.webp"
+    ],
+    "thumbnail": "/photos/salones-03-small.webp",
+    "width": 1086,
+    "height": 1448,
+    "artByAna": true,
+    "focus": [
+      0.32,
+      0.255,
+      0.2,
+      0.15
+    ]
+  },
+  {
+    "id": "otras-estancias-03",
+    "name": "Estudio elegante con escritorio clásico",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-03.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-03-small.webp",
+    "width": 1086,
+    "height": 1448,
+    "artByAna": true,
+    "focus": [
+      0.44,
+      0.33,
+      0.13,
+      0.13
+    ]
+  },
+  {
+    "id": "dormitorios-03",
+    "name": "Dormitorio costero con camas gemelas y arte turquesa",
+    "category": "dormitorios",
+    "type": "Dormitorios",
+    "photos": [
+      "/photos/dormitorios-03.webp"
+    ],
+    "thumbnail": "/photos/dormitorios-03-small.webp",
+    "width": 1323,
+    "height": 1189,
+    "artByAna": true,
+    "focus": [
+      0.12,
+      0.005,
+      0.82,
+      0.32
+    ]
+  },
+  {
+    "id": "salones-07",
+    "name": "Salón moderno con arte y texturas",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-07.webp"
+    ],
+    "thumbnail": "/photos/salones-07-small.webp",
+    "width": 1307,
+    "height": 1203,
+    "artByAna": true,
+    "focus": [
+      0.4,
+      0.04,
+      0.44,
+      0.29
+    ]
+  },
+  {
+    "id": "otras-estancias-07",
+    "name": "Entrada clásica con paisajes costeros y busto antiguo",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-07.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-07-small.webp",
+    "width": 1122,
+    "height": 1402,
+    "artByAna": true,
+    "focus": [
+      0.22,
+      0.005,
+      0.69,
+      0.5
+    ]
+  },
+  {
+    "id": "otras-estancias-08",
+    "name": "Recibidor con arte abstracto y decantadores",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-08.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-08-small.webp",
+    "width": 1122,
+    "height": 1402,
+    "artByAna": true,
+    "focus": [
+      0.26,
+      0.03,
+      0.6,
+      0.69
+    ]
+  },
+  {
+    "id": "salones-09",
+    "name": "Salón acogedor con arte geométrico",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-09.webp"
+    ],
+    "thumbnail": "/photos/salones-09-small.webp",
+    "width": 1254,
+    "height": 1254,
+    "artByAna": true,
+    "focus": [
+      0.1,
+      0.15,
+      0.59,
+      0.28
+    ]
+  },
+  {
+    "id": "otras-estancias-09",
+    "name": "Recibidor otoñal con arte abstracto",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-09.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-09-small.webp",
+    "width": 1122,
+    "height": 1402,
+    "artByAna": true,
+    "focus": [
+      0.21,
+      0.1,
+      0.57,
+      0.45
+    ]
+  },
+  {
+    "id": "otras-estancias-10",
+    "name": "Entrada elegante con arte marino y consola burdeos",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-10.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-10-small.webp",
+    "width": 1122,
+    "height": 1402,
+    "artByAna": true,
+    "focus": [
+      0.28,
+      0.04,
+      0.53,
+      0.57
+    ]
+  },
+  {
+    "id": "salones-11",
+    "name": "Salón moderno y simétrico en tonos cálidos",
+    "category": "salones",
+    "type": "Salones",
+    "photos": [
+      "/photos/salones-11.webp"
+    ],
+    "thumbnail": "/photos/salones-11-small.webp",
+    "width": 1448,
+    "height": 1086,
+    "artByAna": true,
+    "focus": [
+      0.4,
+      0.03,
+      0.26,
+      0.29
+    ]
+  },
+  {
+    "id": "otras-estancias-11",
+    "name": "Recibidor elegante con arte abstracto",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-11.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-11-small.webp",
+    "width": 1122,
+    "height": 1402,
+    "artByAna": true,
+    "focus": [
+      0.12,
+      0.07,
+      0.84,
+      0.64
+    ]
+  },
+  {
+    "id": "otras-estancias-12",
+    "name": "Vignette elegante con arte y libros",
+    "category": "otras-estancias",
+    "type": "Otras estancias",
+    "photos": [
+      "/photos/otras-estancias-12.webp"
+    ],
+    "thumbnail": "/photos/otras-estancias-12-small.webp",
+    "width": 1152,
+    "height": 1366,
+    "artByAna": true,
+    "focus": [
+      0.34,
+      0.06,
+      0.58,
+      0.41
+    ]
+  },
+  {
     "id": "detalles-deco-05",
     "name": "Pasillo sereno con arte circular y aplique dorado",
     "category": "detalles-deco",
@@ -10,6 +308,12 @@
     "thumbnail": "/photos/detalles-deco-05-small.webp",
     "width": 1086,
     "height": 1448,
-    "artByAna": true
+    "artByAna": true,
+    "focus": [
+      0.37,
+      0.31,
+      0.58,
+      0.43
+    ]
   }
 ]
