@@ -1,0 +1,15 @@
+[
+  {
+    "id": "detalles-deco-05",
+    "name": "Pasillo sereno con arte circular y aplique dorado",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalles-deco-05.webp"
+    ],
+    "thumbnail": "/photos/detalles-deco-05-small.webp",
+    "width": 1086,
+    "height": 1448,
+    "artByAna": true
+  }
+]

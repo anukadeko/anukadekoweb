@@ -47,3 +47,11 @@
 .photo-dialog-image img{width:100%;height:100%;object-fit:contain}
 @media(max-width:640px){.photo-gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.photo-dialog{padding:10px}.photo-dialog-image{height:calc(88dvh - 110px)}.gallery-pagination{gap:6px}.gallery-pagination button{min-width:38px}}
 @media(prefers-reduced-motion:reduce){.photo-tile img{transition:none}}
+.art-credit-badge{position:absolute;left:10px;bottom:12px;max-width:calc(100% - 58px);background:#f4f1eaeF;color:#373b31;padding:7px 9px;font-size:10px;line-height:1.4;letter-spacing:.2px;text-align:left;pointer-events:none}
+.cover-art-credit{top:20px;left:20px;bottom:auto;max-width:calc(100% - 40px);font-size:12px;padding:10px 14px}
+.photo-art-credit{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:12px;line-height:1.7;padding:8px 12px}
+.photo-art-credit a{text-decoration:underline;text-underline-offset:3px}
+.photo-dialog:has(.photo-art-credit) .photo-dialog-image{height:calc(86dvh - 150px)}
+.art-details h2{font-size:clamp(40px,5vw,65px);margin:20px 0 35px}
+.art-details .photo-gallery{grid-template-columns:minmax(0,540px);justify-content:center}
+@media(max-width:640px){.art-credit-badge{font-size:9px;padding:6px;left:7px;bottom:10px}.cover-art-credit{top:14px;left:14px;bottom:auto;font-size:11px;padding:9px}.photo-art-credit{font-size:11px}.photo-dialog:has(.photo-art-credit) .photo-dialog-image{height:calc(84dvh - 160px)}}
