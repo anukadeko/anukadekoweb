@@ -30,7 +30,7 @@ npm run preview
 - `/estudio`: presentación de Ana.
 - `/contacto`: acceso a las páginas de contacto existentes.
 
-Las fotografías han sido sustituidas por la selección facilitada por Ana en Google Drive, organizada en salones, comedores, jardines, dormitorios, cuartos de baño, detalles de decoración y otras estancias. Se conserva el salón original como imagen de portada, a petición de Ana. Se han retirado dos tomas repetidas de comedor y jardín.
+Las fotografías han sido sustituidas por la selección facilitada por Ana en Google Drive, organizada en salones, comedores, jardines, dormitorios, cuartos de baño, detalles de decoración y otras estancias. La portada muestra la versión mejorada y luminosa del salón original, con los cuadros enmarcados. Se han retirado dos tomas repetidas de comedor y jardín.
 
 Las imágenes están optimizadas en WebP en `public/photos/`, con copias pequeñas para las galerías. Los datos de las 50 fotografías de interiorismo están en `src/projects.json`. Las tres imágenes de presentación y arte se utilizan en las páginas correspondientes. El logo oficial se conserva.
 
