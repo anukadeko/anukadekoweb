@@ -61,6 +61,18 @@
     "height": 1290
   },
   {
+    "id": "comedor-07",
+    "name": "Comedor con mueble rojo, papel pintado geométrico y vistas al jardín",
+    "category": "comedores",
+    "type": "Comedores",
+    "photos": [
+      "/photos/comedor-07.webp"
+    ],
+    "thumbnail": "/photos/comedor-07-small.webp",
+    "width": 3024,
+    "height": 4032
+  },
+  {
     "id": "comedores-04",
     "name": "Comedor costero con detalles en azul",
     "category": "comedores",
