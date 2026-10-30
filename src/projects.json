@@ -221,6 +221,18 @@
     "height": 1448
   },
   {
+    "id": "detalle-comedor-08",
+    "name": "Detalle del comedor con papel pintado geométrico, láminas enmarcadas y mueble rojo",
+    "category": "detalles-deco",
+    "type": "Detalles deco",
+    "photos": [
+      "/photos/detalle-comedor-08.webp"
+    ],
+    "thumbnail": "/photos/detalle-comedor-08-small.webp",
+    "width": 3024,
+    "height": 4032
+  },
+  {
     "id": "comedores-06",
     "name": "Comedor campestre con flores secas",
     "category": "comedores",
