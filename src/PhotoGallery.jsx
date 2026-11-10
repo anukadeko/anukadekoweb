@@ -2,9 +2,10 @@ import React,{useState,useRef,useEffect} from 'react';
 export default function PhotoGallery({photos,notes=[],introduction=null}){
  const [page,setPage]=useState(0),[selected,setSelected]=useState(null);
  const dialog=useRef(null),opener=useRef(null),grid=useRef(null);
- const pages=Math.max(1,Math.round(photos.length/12));
- const baseSize=Math.floor(photos.length/pages),extra=photos.length%pages;
- const start=page*baseSize+Math.min(page,extra),size=baseSize+(page<extra?1:0);
+ // Keep later pages at twelve photographs and collect the remainder on the first.
+ const pages=Math.max(1,Math.floor(photos.length/12));
+ const firstSize=photos.length-(pages-1)*12;
+ const start=page===0?0:firstSize+(page-1)*12,size=page===0?firstSize:12;
  const photo=selected===null?null:photos[selected];
  useEffect(()=>{if(selected===null)return;const previous=document.body.style.overflow;dialog.current.showModal();document.body.style.overflow='hidden';return()=>{dialog.current?.close();document.body.style.overflow=previous;opener.current?.focus();}},[selected===null]);
  function close(){setSelected(null)}
