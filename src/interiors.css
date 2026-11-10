@@ -112,3 +112,4 @@
 /* Preserve the whole room in the cover photograph at every screen size. */
 .panorama>img{height:auto;object-fit:contain;object-position:center}
 .panorama:hover>img{transform:none}
+.panorama-caption>span.cover-art-credit-text{font-size:clamp(22px,2.1vw,30px);letter-spacing:0}
