@@ -1,3 +1,4 @@
+import {randomUUID} from 'node:crypto';
 // Forward to Ana's existing Adobe Portfolio form receivers; no mail credentials in the browser.
 const receivers={
  interiorismo:'https://anukadekodesigner.myportfolio.com/site/forms/p675059c19a6b69b4d4fdf684c21bc36ce392c352f2c5db500e1c6/m675059c19c77755ace93d455381cba21d9cf791906c44b2118023/',
@@ -18,8 +19,21 @@ export async function POST(request){
   const message=typeof data.message==='string'?data.message.trim():'';
   if(!name||name.length>120||!email||email.length>254||!/^\S+@\S+\.\S+$/.test(email)||/[\r\n]/.test(email)||!message||message.length>5000||!Object.hasOwn(receivers,data.topic))return reply({error:'Revisa tu nombre, correo y mensaje antes de enviarlo.'},400);
   const body=new URLSearchParams({field1:name,email,field2:message});
-  const upstream=await fetch(receivers[data.topic],{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded','Accept':'application/json'},body,signal:AbortSignal.timeout(12000),redirect:'error'});
-  if(!upstream.ok){console.error('Contact receiver rejected request',{status:upstream.status,topic:data.topic});return reply({error:'No se ha podido enviar el mensaje. Inténtalo de nuevo en unos minutos.'},502)}
+  // Adobe Portfolio's own form uses a matching BCP cookie/header pair on every submission.
+  // Generate the same per-request session marker; never log form contents or cookies.
+  const session=randomUUID();
+  const upstream=await fetch(receivers[data.topic],{method:'POST',headers:{
+   'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8',
+   'Accept':'*/*',
+   'X-Requested-With':'XMLHttpRequest',
+   'X-BCP':session,
+   'Cookie':`bcp=${session}; bcp_generated=${Date.now()}`
+  },body,signal:AbortSignal.timeout(12000),redirect:'error'});
+  if(!upstream.ok){
+   console.error('Contact receiver rejected request',{status:upstream.status,topic:data.topic});
+   return reply({error:upstream.status===406?'El servicio de contacto no ha aceptado el envío. Tu mensaje sigue escrito; puedes volver a intentarlo.':'No se ha podido enviar el mensaje. Tu mensaje sigue escrito; inténtalo de nuevo más tarde.'},502);
+  }
+  console.info('Contact receiver accepted request',{status:upstream.status,topic:data.topic});
   return reply({ok:true});
  }catch(error){console.error('Contact request failed',{name:error.name});return reply({error:'No se ha podido enviar el mensaje. Inténtalo de nuevo en unos minutos.'},502)}
 }
