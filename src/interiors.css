@@ -109,3 +109,6 @@
  .photo-gallery--continuous>.gallery-editorial{margin:15px 0 25px;padding-top:28px}
  .photo-gallery--continuous .art-credit-badge{font-size:9px;padding:6px;left:7px;bottom:10px}
 }
+/* Preserve the whole room in the cover photograph at every screen size. */
+.panorama>img{height:auto;object-fit:contain;object-position:center}
+.panorama:hover>img{transform:none}
