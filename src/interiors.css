@@ -100,3 +100,12 @@
 .contact-status.sent{color:#405333}.contact-status.error{color:#8a3e32}
 .contact-honeypot{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 @media(max-width:640px){.native-contact{grid-template-columns:1fr;gap:35px;padding-top:45px}.native-contact h1{font-size:55px}.native-contact-photo{display:none}.native-contact-panel{padding-top:0;border-top:1px solid var(--line);padding-top:25px}.contact-topics{gap:8px}.contact-topics label{font-size:10px;padding:11px}.native-contact-panel h2{font-size:46px}}
+/* Continuous photo sequence with editorial pauses. */
+.photo-gallery--continuous>.gallery-editorial{grid-column:1/-1;margin:20px 0 35px;padding-top:35px}
+@media(max-width:640px){
+ .photo-gallery--continuous{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 14px}
+ .photo-gallery--continuous .photo-tile{aspect-ratio:4/5}
+ .photo-gallery--continuous .photo-tile img{height:100%;object-fit:cover}
+ .photo-gallery--continuous>.gallery-editorial{margin:15px 0 25px;padding-top:28px}
+ .photo-gallery--continuous .art-credit-badge{font-size:9px;padding:6px;left:7px;bottom:10px}
+}

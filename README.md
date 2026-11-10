@@ -39,3 +39,5 @@ El formulario de `/contacto` envía a `/api/contact`. El servidor valida los cam
 Las fotografías con `artByAna` muestran una etiqueta de autoría sin enlace. La portada también muestra un crédito discreto, sin enlace. Al pulsar las fotos se amplía la fotografía completa. Las 15 fotos con obras están repartidas entre las cuatro páginas (4, 4, 4 y 3). Las dos primeras imágenes de la selección inicial, sin cuadros visibles, no tienen etiqueta. La galería de recortes de cuadros se ha retirado; sus enlaces antiguos redirigen a la presentación de Arte.
 
 La primera página reúne 15 fotos para completar sus filas de tres columnas; las otras tres páginas mantienen 12 fotos cada una. Los detalles de decoración se distribuyen entre las cuatro páginas.
+
+Prueba de galería continua: todas las fotografías se recorren al desplazarse, con los cuatro textos intercalados entre grupos de imágenes. En móvil se presentan en dos columnas, alineadas; las imágenes completas se conservan al ampliarlas. Las fotografías se cargan de forma diferida y conservan la vista ampliada.
